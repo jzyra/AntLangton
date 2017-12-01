@@ -1,0 +1,12 @@
+{
+	"width": 600,
+	"height": 600,
+	"number_cellulars_x": 200,
+	"number_cellulars_y": 200,
+  "pos_x_ant": 99,
+  "pos_y_ant": 99,
+	"title": "ant langton",
+
+	"cellulars": [
+	]
+}
